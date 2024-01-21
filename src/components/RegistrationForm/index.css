@@ -1,0 +1,88 @@
+/* Write your CSS code here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+  height: 100vh;
+}
+.heading {
+  font-size: 35px;
+  color: #ea580c;
+  font-weight: bold;
+}
+
+.form-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  height: 400px;
+  width: 400px;
+  border-radius: 10px;
+  padding: 50px;
+}
+.label1 {
+  font-size: 16px;
+  color: #475569;
+  font-weight: 500;
+  margin-bottom: 2px;
+  margin-bottom: 5px;
+}
+.first-name {
+  height: 30px;
+  border: solid 1px #9aa5b1;
+  border-radius: 5px;
+  color: #cbd2d9;
+  margin-bottom: 15px;
+  padding-left: 10px;
+}
+.btn {
+  height: 40px;
+  width: 80px;
+  border: none;
+  background-color: #ea580c;
+  color: #ffffff;
+  border-radius: 7px;
+  align-self: center;
+  margin-top: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.para {
+  font-size: 14px;
+  color: #ff0b37;
+  font-weight: 500;
+  margin-top: 0px;
+}
+.img {
+  height: 50px;
+  width: 50px;
+}
+.head {
+  font-size: 20px;
+  color: #475569;
+  font-weight: 500;
+}
+.btn1 {
+  height: 40px;
+  width: 180px;
+  border: none;
+  background-color: #ea580c;
+  color: #ffffff;
+  border-radius: 5px;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  height: 400px;
+  width: 400px;
+  border-radius: 10px;
+  padding: 50px;
+}
